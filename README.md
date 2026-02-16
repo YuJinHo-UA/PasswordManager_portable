@@ -61,3 +61,5 @@ pip install customtkinter cryptography pyperclip
 
 # Запускаємо
 python main.py
+
+### Варіант 2 Запуск через bat
